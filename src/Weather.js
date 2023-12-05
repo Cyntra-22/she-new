@@ -66,7 +66,8 @@ export default function Weather() {
         <div className="weather_forecast"></div>
       </div>
       <p>
-        <a href="">open-source-code</a> By Myo Pa Pa Kyaw from SheCodes
+        <a href="https://github.com/Cyntra-22/she-new">open-source-code</a> By
+        Myo Pa Pa Kyaw from SheCodes
       </p>
     </div>
   );
